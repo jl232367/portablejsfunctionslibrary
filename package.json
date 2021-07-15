@@ -1,0 +1,23 @@
+{
+  "name": "portablejsfunctionslibrary",
+  "version": "1.0.0",
+  "description": "General purpose frontend personal Javascript library",
+  "main": "portablefuncs.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jl232367/portablejsfunctionslibrary.git"
+  },
+  "keywords": [
+    "frontend",
+    "generalPurpose"
+  ],
+  "author": "Jacob Luallen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jl232367/portablejsfunctionslibrary/issues"
+  },
+  "homepage": "https://github.com/jl232367/portablejsfunctionslibrary#readme"
+}

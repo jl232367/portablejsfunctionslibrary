@@ -6,3 +6,5 @@
         getClassToModify.style.display = "none";
     
 }
+
+export {navDropDown}
